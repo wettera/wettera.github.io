@@ -62,11 +62,10 @@ content:
   - title: Research Experience
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title: National University of Singapore
         sub_title: School of Computing
         caption: 2019.6 — 2019.7
-        link: https://www.comp.nus.edu.sg/
         # quote: >
         # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
