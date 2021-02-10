@@ -38,6 +38,7 @@ google_analytics: "UA-00000000-0"
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I am a senior undergraduate at [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en/), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) under the supervision of [Prof. Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/en/).
+  In October 2020, I was admitted to pursue a Master degree in [Huazhong University of Science and Techology](http://english.hust.edu.cn/), under the supervision of [Prof. Xiang Bai](http://122.205.5.5:8071/~xbai/) without entrance examination. 
   My research interests include **Computer Vision** and **Deep Learning**.
 
 
