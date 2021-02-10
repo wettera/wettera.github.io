@@ -32,11 +32,37 @@ google_analytics: "UA-00000000-0"
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I am a senior undergraduate at [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en/), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) under the supervision of [Prof. Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/en/).
-  My research interests include **Computer Vision** and **Deep Learning**
+  My research interests include **Computer Vision** and **Deep Learning**.
 
 
 content:
-  - title: Projects # Title for the section
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+
+  - title: Research Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -54,30 +80,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
  
 
 
