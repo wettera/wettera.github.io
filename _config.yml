@@ -51,9 +51,11 @@ content:
         title: Southern University of Science and Technology
         sub_title: Computer Science
         caption: 2017.9 — 2021.6
-        quote: >
-          Short institution or course description (optional)
+        #quote: >
+        # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+         - GPA: 3.57/4.0
+         - Select Honors: National Inspirational Scholarship(2018)  [Tencent Rhino-Bird Elite Training Program](https://join.qq.com/news_detail.html?id=232)(2020) 
           
 
   - title: Research Experience
