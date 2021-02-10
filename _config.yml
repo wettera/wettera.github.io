@@ -23,15 +23,17 @@ linkedin_username: jekyll
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: "GTM-0000000"
-gtag: "UA-00000000-0"
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
 google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am a senior undergraduate at [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en/), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) under the supervision of [Prof. Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/en/)
+  I am a senior undergraduate at [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en/), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) under the supervision of [Prof. Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/en/).
+  My research interests include **Computer Vision** and **Deep Learning**
+
 
 content:
   - title: Projects # Title for the section
@@ -52,6 +54,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
@@ -75,12 +78,8 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+ 
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
