@@ -10,7 +10,7 @@ name: Chenyang Gao (郜晨阳)
 title: Researcher
 email: 11710904@mail.sustech.edu.cn
 # email_title: Email (Email title override)
-phone: 18337461359
+phone: (+86)18337461359
 # phone_title: Phone (Phone title override)
 
 # Dark Mode (true/false/never)
@@ -55,7 +55,7 @@ content:
         # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
          - GPA: 3.57/4.0
-         - Select Honors: National Inspirational Scholarship(2018)  [Tencent Rhino-Bird Elite Training Program](https://join.qq.com/news_detail.html?id=232)(2020) 
+         - Select Honors: National Inspirational Scholarship(2018)    [Tencent Rhino-Bird Elite Training Program](https://join.qq.com/news_detail.html?id=232)(2020) 
           
 
   - title: Research Experience
