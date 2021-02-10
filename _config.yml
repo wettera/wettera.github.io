@@ -55,21 +55,23 @@ content:
         # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
          - GPA: 3.57/4.0
-         - Select Honors: National Inspirational Scholarship(2018)    [Tencent Rhino-Bird Elite Training Program](https://join.qq.com/news_detail.html?id=232)(2020) 
+         - Select Honors: National Inspirational Scholarship(2018)
+           [Tencent Rhino-Bird Elite Training Program](https://join.qq.com/news_detail.html?id=232)(2020) 
           
 
   - title: Research Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: National University of Singapore
+        sub_title: School of Computing
+        caption: 2019.6 — 2019.7
+        link: https://www.comp.nus.edu.sg/
+        # quote: >
+        # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Summer Workshop related to artificial intelligence and security
+          - Grade: A
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
