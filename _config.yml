@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Chenyang Gao (郜晨阳)
 title: Researcher
+[中文简历](https://wettera.github.io/CV_Chinese.pdf)
 email: 11710904@mail.sustech.edu.cn
 # email_title: Email (Email title override)
 phone: (+86)18337461359
@@ -18,7 +19,7 @@ darkmode: true
 
 # Social links
 github_username: wettera
-linkedin_username: 郜晨阳
+linkedin_username: 晨阳郜
 
 # Additional icon links
 additional_links:
