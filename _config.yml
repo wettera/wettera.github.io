@@ -74,13 +74,13 @@ content:
 
       - layout: top-right
         title: Tencent
-        sub_title:YouTu Lab
+        sub_title: YouTu Lab
         caption: 2020.6 — 2020.9
       # quote: >
       # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        - Research on **text based person search** task
-        - Wrote one paper and two invention patents
+         - Research on **text based person search** task
+         - Wrote one paper and two invention patents
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
