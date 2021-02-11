@@ -28,10 +28,10 @@ additional_links:
   url: https://wettera.github.io/CV_Chinese.pdf
 
 
-Google Analytics and Tag Manager
+#Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtm: "GTM-0000000"
+gtag: "UA-00000000-0"
 google_analytics: "UA-00000000-0"
 
 # About Section
