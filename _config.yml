@@ -43,7 +43,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: Southern University of Science and Technology
         sub_title: Computer Science
         caption: 2017.9 — 2021.6
