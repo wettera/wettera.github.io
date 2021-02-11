@@ -84,7 +84,7 @@ content:
       - layout: right
         description: | # this will include new lines to allow paragraphs
           ## Papers:
-          - Contextual Non-Local Alignment over Full-Scale Representation for Text-Based Person Search
+          - Contextual Non-Local Alignment over Full-Scale Representation for Text-Based Person Search <br>
           **Chenyang Gao**, Guanyu Cai, Xinyang Jiang, Feng Zheng, Jun Zhang, Yifei Gong, Pai Peng, Xiaowei Guo and Xing Sun <br>
           Arxiv: 2101.03036, 2021.[[PDF](https://arxiv.org/pdf/2101.03036.pdf)] [[Code](https://github.com/TencentYoutuResearch/PersonReID-NAFS)]
 
