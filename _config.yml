@@ -43,7 +43,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: right
+      - layout: top
         title: Southern University of Science and Technology
         sub_title: Computer Science
         caption: 2017.9 — 2021.6
@@ -68,7 +68,7 @@ content:
       #  - Summer Workshop related to artificial intelligence and security
       #  - Grade: A
 
-      - layout: right
+      - layout: top
         title: Tencent
         sub_title: YouTu Lab
         caption: 2020.6 — 2020.9
