@@ -78,13 +78,16 @@ content:
          - Research on **text based person search** task
          - Wrote one paper and two invention patents
 
-# About Section
-about_title: Publications
-#about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  - Contextual Non-Local Alignment over Full-Scale Representation for Text-Based Person Search
-  **Chenyang Gao**, Guanyu Cai, Xinyang Jiang, Feng Zheng, Jun Zhang, Yifei Gong, Pai Peng, Xiaowei Guo and Xing Sun
-  Arxiv: 2101.03036, 2021.[[PDF](https://arxiv.org/pdf/2101.03036.pdf)] [[Code](https://github.com/TencentYoutuResearch/PersonReID-NAFS)]
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        description: | # this will include new lines to allow paragraphs
+          - Contextual Non-Local Alignment over Full-Scale Representation for Text-Based Person Search
+          **Chenyang Gao**, Guanyu Cai, Xinyang Jiang, Feng Zheng, Jun Zhang, Yifei Gong, Pai Peng, Xiaowei Guo and Xing Sun
+          Arxiv: 2101.03036, 2021.[[PDF](https://arxiv.org/pdf/2101.03036.pdf)] [[Code](https://github.com/TencentYoutuResearch/PersonReID-NAFS)]
+
+
 
 
  
