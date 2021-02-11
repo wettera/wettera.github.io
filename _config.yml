@@ -82,17 +82,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        link: https://arxiv.org/pdf/2101.03036.pdf
-        link_text: Link Text
-        additional_links:
+        #link: https://arxiv.org/pdf/2101.03036.pdf
+        #link_text: Link Text
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        # quote: >
+        #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
  
